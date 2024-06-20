@@ -1,4 +1,3 @@
-
 #News App
 This project is a News App built using React. It allows users to browse and read the latest news articles from various categories and sources.
 
